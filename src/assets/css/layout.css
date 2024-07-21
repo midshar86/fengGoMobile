@@ -1,0 +1,13 @@
+#app .app-header {
+  color: white;
+  font-weight: bold;
+  background-color: "#cd0a0a" !important;
+}
+
+#app .app-header span {
+  font-size: 16px;
+}
+
+#app .app-header .van-search {
+  padding: 0;
+}

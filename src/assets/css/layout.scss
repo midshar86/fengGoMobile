@@ -1,0 +1,15 @@
+@import "./var.scss";
+// 设置导航栏样式
+#app {
+  .app-header {
+    color: white;
+    font-weight: bold;
+    background-color: $topic-color;
+    span {
+      font-size: 16px;
+    }
+    .van-search {
+      padding: 0;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html,
+body,
+#app {
+  height: 100%;
+  // 设置最大宽度
+  max-width: 750px;
+  margin: 0 auto;
+}
+html {
+  font-size: 13.333vw;
+}
+body {
+  // 设置根字体大小
+  font-size: 14px;
+}
+input {
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  text-indent: 5px;
+}
+#app {
+  overflow: auto;
+}
